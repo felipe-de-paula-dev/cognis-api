@@ -1,0 +1,31 @@
+{
+	"id": "4fa4cdce-3c69-45ae-b21c-bc2847b0a019",
+	"name": "Ana Clara",
+	"cpf": "123123",
+	"email": {
+		"id": "8e2a6844-435c-49d6-90c9-1a1428168d12",
+		"nomeUsuario": "anaclara",
+		"dominio": "outlook",
+		"terminacao": "com"
+	},
+	"address": {
+		"id": "dbc0dbb0-8417-469f-9ad4-344a4ba7e93c",
+		"typeStreet": "RUA",
+		"street": "Rua das Flores",
+		"number": 456,
+		"complement": "Casa 12",
+		"neighborhood": "Jardim Primavera",
+		"zipCode": 87654321,
+		"city": "São Paulo",
+		"state": "SP",
+		"country": "Brasil"
+	},
+	"plan": {
+		"id": "edd56391-61a6-4929-82a2-c01d7efb8db0",
+		"remainingDays": 30,
+		"lastRenewalDate": "2025-09-18",
+		"planType": "BASIC"
+	},
+	"login": "ana123",
+	"password": "senha123"
+}
